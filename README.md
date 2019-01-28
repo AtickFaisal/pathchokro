@@ -1,18 +1,14 @@
-# Pathchokro
+# Project Title
 
-## Image added
-<img src="im.jpeg" width="100" height="100">
+## Sub heading
 
-```bash
-pip install modulex
-```
-
+This is normal text.
+C code:
 ```c
-#include <stdio.h>
-
-void main()
-{
-  printf("Hello");
-  return;
+#include<stdio.h>
+Void main() {
+	printf(“Hello World”);
 }
-```
+
+Image:
+<img src=“demo.jpg” width=“50”/>
