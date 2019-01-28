@@ -7,8 +7,8 @@ C code:
 ```c
 #include<stdio.h>
 Void main() {
-	printf(“Hello World”);
+	printf(â€œHello Worldâ€);
 }
 
 Image:
-<img src=“demo.jpg” width=“50”/>
+<img src=â€œwindows.pngâ€ width=â€œ50â€/>
