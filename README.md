@@ -13,5 +13,6 @@ pip install modulex
 void main()
 {
   printf("Hello");
+  return;
 }
 ```

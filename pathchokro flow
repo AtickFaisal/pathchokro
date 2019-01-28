@@ -1,0 +1,27 @@
+# demo github repo
+https://github.com/jjoe64/GraphView
+
+#github install
+https://git-scm.com/downloads
+config email and name
+
+# Github first 
+
+1. open new repo
+2. clone
+3. make whatever
+4. git add .
+5. commit 
+6. push
+
+#connect local repo with remote
+
+1. new remote repo
+2. open working folder
+3. git init
+4. git remote add <name> "url"
+5. git pull <name> master
+6. git commit +push
+
+# Organizing readme file
+-images ![alt text] (url)
