@@ -3,15 +3,15 @@
 ## Image added
 <img src="im.jpeg" width="100" height="100">
 
-'''cmd
+```bash
 pip install modulex
-'''
+```
 
-'''c
+```c
 #include <stdio.h>
 
 void main()
 {
   printf("Hello");
 }
-'''
+```
