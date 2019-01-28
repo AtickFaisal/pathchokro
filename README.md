@@ -11,4 +11,4 @@ Void main() {
 }
 
 Image:
-<img src=“windows.png” width=“50”/>
+<img src=“windows.png” width=“100” height="100"/>
