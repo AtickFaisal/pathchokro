@@ -1,3 +1,3 @@
 # Pathchokro
 
-![New] (im.jpg)
+![New](im.jpeg)
