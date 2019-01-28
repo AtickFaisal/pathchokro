@@ -1,3 +1,3 @@
 # Pathchokro
 
-![New](im.jpeg | width=100)
+![New](im.jpegs=100)
