@@ -9,7 +9,8 @@ C code:
 Void main() {
 	printf(“Hello World”);
 }
+```
 
 Image:
 
-<img src="im.jpeg" width="100" height="100">
+<img src="windows.png" width="100" height="100">
